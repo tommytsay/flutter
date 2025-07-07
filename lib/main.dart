@@ -1,9 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:timezone/data/latest.dart' as tz;
-import 'package:timezone/timezone.dart' as tz;
-import 'dart:async';
-import 'package:table_calendar/table_calendar.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 import 'journal_app.dart';
 
 void main() {
