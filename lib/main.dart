@@ -5,9 +5,8 @@ import 'journal_app.dart';
 void main() {
   tz.initializeTimeZones();
   
-   int age = 22;
  String name = 'Tommy';
- var message = '我的名字是$name，今年$age歲';
+ var message = 'My name is $name';
  print(message);
   runApp(const MyApp());
 }
